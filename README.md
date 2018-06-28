@@ -1,2 +1,1 @@
-# proposals
-My conference proposals
+# Talk Proposals
