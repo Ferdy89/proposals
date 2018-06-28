@@ -1,11 +1,16 @@
-# How to Find Objects in your Logic
+# Finding the Objects in your Logic
 
 ## Abstract
 
-In this talk you will learn how to analyze metrics for the relationship between
-data and behavior in your business logic and drive a systematic approach to
-create new objects and refactor. This will help you be more in sync with your
-team about what direction you want your codebase to follow.
+SOLID, Service Objects, Functional style, TDD... Have you ever found yourself
+debating about how to design code while a feature is waiting to be shipped?
+Seems like you need a system to make design decisions and stay productive!
+
+Metrics are not sufficient, but they're necessary to drive objective
+conversations. In this talk you will learn how to analyze the relationship
+between data and behavior in your business logic to drive a systematic approach
+to create new objects and refactor. This will help you be more in sync with
+your team about what direction you want your codebase to follow.
 
 ## Description
 
@@ -32,9 +37,9 @@ focus on how to keep encapsulating it properly.
 
 Refactoring is often another controversial topic. You might have found yourself
 in the past debating about whether a big design decision is an improvement or
-instead a risky rearrangement of code hard to justify. In this talk you will
+instead a risky rearrangement of code hard to justify. In this talk, you will
 learn how to drive your design decisions based on previous advice of the
-community in a way that you can become more concise on your arguments. Knowing
+community in a way that you can become more concise in your arguments. Knowing
 what constitutes a code smell and the recipes for their refactors can help your
 team become more specific about how to evolve your codebase.
 
@@ -45,9 +50,10 @@ design decisions with their teams more often than they think it’s productive.
 It can also be very beneficial for developers that want to improve their design
 skills and need guidance on actionable points for how to do so.
 
-I lead a development team of people with very diverse skills. For some time I
-have struggled finding ways to effectively make collective decisions with some
-and also to provide specific guidance to others. I have found that opinions are
-hard to communicate without tangible metrics and rules to back them up. After
-finding those metrics and defining some rules, our team has been able to be
-better aligned on our collective goals for code quality and move faster.
+I used to lead a development team of people with very diverse skills. For some
+time I struggled finding ways to effectively make collective decisions with
+some team members and also to provide specific guidance to others. I have found
+that opinions are hard to communicate without tangible metrics and rules to
+back them up. After finding those metrics and defining some rules, the team was
+able to be better aligned on a set of collective goals for code quality and
+move faster.
